@@ -1,0 +1,36 @@
+h1{
+font-family: Verdana;
+font-weight:  Normal;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.comingsoon{
+ color: Aquamarine;
+ font-size: 16px; 
+ text-align: center;  
+}
+
+.guidepara{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.placeremember{
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+.comingsoonpara{
+    color:white;
+    font-size:42px;
+}
